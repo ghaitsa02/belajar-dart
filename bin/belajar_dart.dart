@@ -1,8 +1,8 @@
 void main() {
   var maap = 1;
 
-  while (maap <= 10) {
-    print('asu $maap');
+  while (maap <= 5) {
+    print('saya minta maaf $maap');
     maap++;
   }
 }
