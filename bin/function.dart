@@ -1,5 +1,5 @@
-void sayHello(String firstName, [lastName]) {
-  print('coba $firstName $lastName');
+void sayHello(String firstName, [middleName, lastName]) {
+  print('coba $firstName $middleName $lastName');
 }
 
 void main() {
